@@ -1,1 +1,2 @@
-# User-Retention
+## PowerBI Projects
+This repository showcases foundational PowerBI projects that demonstrate essential skills in data import, transformation, and visualization. Each project highlights techniques to turn raw data into clear, actionable insights through interactive dashboards and visual reports. These projects serve as a starting point for leveraging PowerBI's capabilities to support data-driven decision-making.
